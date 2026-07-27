@@ -1,8 +1,0 @@
-{
-  "courses": [
-    {
-      "name": "Cybersecurity I",
-      "students": ["Alice", "Brian"]
-    }
-  ]
-}
